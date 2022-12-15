@@ -29,6 +29,3 @@ Spring boot 3.0 builds on and requires Spring farmework 6.
 * Auto-configuration for JdkClientHttpConnector
 * @SpringBootTest with Main Methods
 
-<!---->
-
-*
