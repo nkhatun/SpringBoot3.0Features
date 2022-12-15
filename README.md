@@ -4,14 +4,20 @@ cover: >-
 coverY: 0
 ---
 
-# SpringBoot3.0Features
+# 😇 SpringBoot3.0Features
 
 Latest version of spring boot, released on Nov 24 2022&#x20;
 
 ## Features
 
 * Java 17 baseline and java 19 support
+
+<img src=".gitbook/assets/Image 15.12.22 at 17.31.jpeg" alt="" data-size="original">
+
 * Migrated Java EE to Jakarta EE APIs for all dependencies
+
+![](.gitbook/assets/image.png)
+
 * Elastic Search Java Client
 * Spring Framework 6 Support
 
@@ -29,6 +35,3 @@ Spring boot 3.0 builds on and requires Spring farmework 6.
 * Auto-configuration for JdkClientHttpConnector
 * @SpringBootTest with Main Methods
 
-<!---->
-
-*
